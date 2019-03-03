@@ -3,6 +3,10 @@
 This is a simple program that shows you a dmenu with available PulseAudio sinks
 and switches to the selected one.
 
+# Binary
+
+You can download the binary relaease here: https://github.com/marad/pa-device-selector/releases/tag/v0.1
+
 ## Runtime requirements
 
 This tool requires your system to have `pacmd` and `dmenu` tools on your PATH.
