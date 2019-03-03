@@ -3,7 +3,7 @@
 This is a simple program that shows you a dmenu with available PulseAudio sinks
 and switches to the selected one.
 
-# Binary
+## Binaries
 
 You can download the binary relaease here: https://github.com/marad/pa-device-selector/releases/tag/v0.1
 
