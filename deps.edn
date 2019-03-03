@@ -1,0 +1,1 @@
+{:aliases {:cambada {:extra-deps {luchiniatwork/cambada {:mvn/version "1.0.0"}}}}}
